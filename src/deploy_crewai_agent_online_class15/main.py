@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from crewai.flow import Flow, start, listen
-from deploy_crewai_agent_onclass15.crew import DevCrew
+from deploy_crewai_agent_online_class15.crew import DevCrew
 
 class DevFlow(Flow):
     @start()
