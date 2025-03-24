@@ -1,7 +1,7 @@
 [project]
-name = "deploy_crewai_agent_onclass15"
+name = "deploy_crewai_agent_online_class15"
 version = "0.1.0"
-description = "deploy_crewai_agent_onclass15 using crewAI"
+description = "deploy_crewai_agent_online_class15 using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
 requires-python = ">=3.10,<3.13"
 dependencies = [
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.scripts]
-deploy_crewai_agent_onclass15 = "deploy_crewai_agent_onclass15.main:run"
+deploy_crewai_agent_onclass15 = "deploy_crewai_agent_online_class15.main:run"
 run_crew = "deploy_crewai_agent_online_class15.main:main"
 docling = "deploy_crewai_agent_online_class15.main:main"
 
