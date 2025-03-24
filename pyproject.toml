@@ -11,8 +11,8 @@ dependencies = [
 
 [project.scripts]
 deploy_crewai_agent_onclass15 = "deploy_crewai_agent_onclass15.main:run"
-run_crew = "deploy_crewai_agent_onclass15.main:main"
-docling = "deploy_crewai_agent_onclass15.main:main"
+run_crew = "deploy_crewai_agent_online_class15.main:main"
+docling = "deploy_crewai_agent_online_class15.main:main"
 
 
 
